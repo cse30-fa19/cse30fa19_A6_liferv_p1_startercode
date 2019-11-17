@@ -25,4 +25,5 @@ doRow.o: doRow.S
 
 clean:
 	rm $(EXE)
+	rm $(OBJS)
 
